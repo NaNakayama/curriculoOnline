@@ -1,0 +1,84 @@
+.titulo{
+    text-align: center;
+    color: #d3d3d3;
+    margin: 20px;
+    background-color: #363636;
+    opacity: 0.8;
+    padding: 20px;
+    border-radius: 15px;
+}
+.fotoperfil {
+    width: 200px;
+}
+.perfil {
+    text-align: left;
+    color: #e0dede;
+    width: 1570px;
+    margin: auto;
+    background-color: #363636;
+    opacity: 0.8;
+    padding: 20px;
+    border-radius: 15px;
+}
+hr {
+    width: 370px;
+}
+body{
+    background-image: url(fundo.jpg);
+    
+}
+.habilidades{
+    width: 370px;
+}
+div{
+    color: #e0dede;
+    font-family: monospace;
+    font-size: larger;
+}
+.profissional{
+    margin: 20px;
+    background-color: #363636;
+    opacity: 0.8;
+    padding: 20px;
+    border-radius: 15px;
+}
+.estudos{
+    margin: 20px;
+    background-color: #363636;
+    opacity: 0.8;
+    padding: 20px;
+    border-radius: 15px;
+}
+.habilidades{
+    margin: 20px;
+    width: auto;
+    background-color: #363636;
+    opacity: 0.8;
+    padding: 20px;
+    border-radius: 15px;
+}
+.contato{
+    margin: 20px;
+    width: auto;
+    background-color: #363636;
+    opacity: 0.8;
+    padding: 20px;
+    border-radius: 15px;
+}
+.foto{
+    margin: 20px;
+}
+.hab{
+    width: 400px;
+}
+.letra{
+    font-family: cursive;
+}
+.tabela{
+    margin: 20px;
+    width: auto;
+    background-color: #363636;
+    opacity: 0.8;
+    padding: 20px;
+    border-radius: 15px;
+}
